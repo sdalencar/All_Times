@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">All Times</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">All Times</string>
+    <string name="nav_header_subtitle">sda.alltimes@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_home">Principal</string>
+    <string name="menu_gallery">Serviços</string>
+    <string name="menu_slideshow">Clientes</string>
+    <string name="contato">Contato</string>
+    <string name="sobre">Sobre</string>
+    <string name="SistemaGestãoQualidade">Sistema de Gestão da Qualidade</string>
+    <string name="textoQualidade">Qualidade é o grau de utilidade esperado ou adquirido de qualquer coisa, verificável através da forma e dos elementos constitutivos do mesmo e pelo resultado do seu uso. A palavra "qualidade" tem um conceito subjetivo que está relacionada com as percepções, necessidades e resultados em cada indivíduo.</string>
+    <string name="indicadores_titulo">Indicadores de desempenho</string>
+    <string name="indicadores_texto">Os indicadores de desempenho organizacional são ferramentas básicas utilizadas para o gerenciamento do sistema organizacional. Com estes indicadores as Empresa são capazes de aferir os processos organizacionais, apontar possíveis alterações nos planejamentos já definidos.</string>
+    <string name="clientes">Clientes</string>
+    <string name="cliente_tetxo">Em mais de 15 anos de exitência a SDA- All Time acumula experiência e know how em empresas nacionais e multinacionais, de diversos portes, em vários segmentos em todo território nacional.</string>
+    <string name="olx">OLX</string>
+    <string name="mercado_livre">Mercado Livre</string>
+    <string name="microsoft">Microsoft</string>
+    <string name="yahoo">Yahoo</string>
+    <string name="msn">MSN</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="terra">Terra</string>
+    <string name="chrome">Chrome</string>
+    <string name="abrir">abrir navegação</string>
+    <string name="fechar">fecha navegação</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sobre">SobreActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
